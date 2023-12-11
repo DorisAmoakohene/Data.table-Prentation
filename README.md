@@ -1,0 +1,1 @@
+This repository contains a presentation that delves into the data.table package in R, emphasizing its efficiency by comparing it to other packages. Additionally, the repository includes performance testing conducted using the reported issues on the data.table repository on GitHub. The testing helped define three code branches: Regression, Before, and Fix.
